@@ -1,0 +1,22 @@
+.odd{
+    background-color: rgb(219, 78, 78);
+    font-size: 20px;
+}
+.three{
+    font-size: 30px;
+}
+
+#two {
+    color:rgb(44, 44, 241);
+    font-size: 58px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+#four {
+    background-color: rgb(40, 184, 27);
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
